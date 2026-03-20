@@ -4,7 +4,7 @@
 A beginner-friendly Python project that lets users build a stock portfolio, calculate total investment value, and optionally export results to .txt or .csv.
 
 
-# File Tree: CodeAlpha_Stock_Portfolio_Tracker
+# Folder Structure
 
 ```
 🗂️ Stock_Portfolio_Tracker
