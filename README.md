@@ -106,3 +106,10 @@ price = STOCK_PRICES["AAPL"]  # → 180.0
 
 value = STOCK_PRICES[symbol] * quantity
 total += value
+
+## 📌 File Handling
+
+with open("portfolio_result.txt", "w") as f:
+    f.write(...)  # writes output to file
+
+    
