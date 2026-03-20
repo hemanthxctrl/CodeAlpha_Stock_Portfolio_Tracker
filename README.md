@@ -11,3 +11,7 @@ A beginner-friendly Python project that lets users build a stock portfolio, calc
 | User Input / Output    | `input()` collects stock symbols & quantities             |
 | Basic Arithmetic       | price × quantity per stock, summed to total               |
 | File Handling          | Optional save to `.txt` and/or `.csv`                     |
+
+## How to Run  🚀
+  
+bashpython stock_tracker.py
