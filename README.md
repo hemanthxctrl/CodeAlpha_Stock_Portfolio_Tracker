@@ -101,4 +101,8 @@ STOCK_PRICES = {
 
 # Access value
 price = STOCK_PRICES["AAPL"]  # → 180.0
+```
+## 📌 Core Calculation
 
+value = STOCK_PRICES[symbol] * quantity
+total += value
