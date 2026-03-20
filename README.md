@@ -76,3 +76,17 @@ bashpython stock_tracker.py
     > NVDA 2
     ✅  Added NVDA × 2
     > done
+
+
+    💼 Portfolio Summary
+<p align="center"> <img src="https://img.shields.io/badge/Portfolio-Summary-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Status-Demo-success?style=for-the-badge"> </p>
+
+## 💼 Portfolio Summary
+
+| 📊 Stock | 💲 Price | 📦 Qty | 💰 Value     | 📈 Allocation |
+|----------|---------|--------|--------------|--------------|
+| NVDA     | $875.00 | 2      | $1,750.00    | 🟢 36.1%     |
+| TSLA     | $250.00 | 5      | $1,250.00    | 🟡 25.8%     |
+| AAPL     | $180.00 | 10     | $1,800.00    | 🔵 37.1%     |
+|----------|---------|--------|--------------|--------------|
+| **TOTAL**|         |        | **$4,840.00**|              |
