@@ -78,10 +78,6 @@ bashpython stock_tracker.py
     > done
 
 
-    💼 Portfolio Summary
-<p align="center"> <img src="https://img.shields.io/badge/Portfolio-Summary-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Status-Demo-success?style=for-the-badge"> </p>
-
-## 💼 Portfolio Summary
 
 | 📊 Stock | 💲 Price | 📦 Qty | 💰 Value     | 📈 Allocation |
 |----------|---------|--------|--------------|--------------|
