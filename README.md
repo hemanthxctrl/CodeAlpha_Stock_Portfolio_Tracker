@@ -46,3 +46,33 @@ bashpython stock_tracker.py
 | AMD    | Advanced Micro Devices      | $165.00     |
 | INTC   | Intel Corp.                 | $35.00      |
 
+## 💻 Sample Session
+
+<p align="center">
+  <b>📈 STOCK PORTFOLIO TRACKER 📈</b><br>
+  <sub>Simulated CLI Output</sub>
+</p>
+
+```bash
+==================================================
+       📈  STOCK PORTFOLIO TRACKER  📈
+==================================================
+
+📋  Available Stocks:
+-----------------------------------
+  Symbol            Company / Price
+-----------------------------------
+  AAPL          $180.00   Apple Inc.
+  TSLA          $250.00   Tesla Inc.
+  ...
+
+✏️   Enter your stocks (type 'done' when finished):
+    Format: SYMBOL  QUANTITY  (e.g.  AAPL 10)
+
+    > AAPL 10
+    ✅  Added AAPL × 10
+    > TSLA 5
+    ✅  Added TSLA × 5
+    > NVDA 2
+    ✅  Added NVDA × 2
+    > done
