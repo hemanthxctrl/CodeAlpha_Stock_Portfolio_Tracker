@@ -9,9 +9,9 @@ A beginner-friendly Python project that lets users build a stock portfolio, calc
 
 🗂️ Stock_Portfolio_Tracker
 |
-├── 🐍 stock_tracker.py
-├── 📄 portfolio_result.csv
-├── 📄 portfolio_result.txt
+├── 🐍 stock_tracker.py          # Main program
+├── 📄 portfolio_result.csv      # (generated on save)
+├── 📄 portfolio_result.txt      # (generated on save)
 └── 📝 README.md
 
 
@@ -27,8 +27,22 @@ A beginner-friendly Python project that lets users build a stock portfolio, calc
 
 
 
-
 ## How to Run  🚀
   
 bashpython stock_tracker.py
+
+## 📋 Available Stocks
+
+| Symbol | Company                     | Price (USD) |
+|--------|-----------------------------|-------------|
+| AAPL   | Apple Inc.                  | $180.00     |
+| TSLA   | Tesla Inc.                  | $250.00     |
+| GOOGL  | Alphabet Inc.               | $140.00     |
+| MSFT   | Microsoft Corp.             | $375.00     |
+| AMZN   | Amazon.com                  | $185.00     |
+| META   | Meta Platforms              | $500.00     |
+| NVDA   | NVIDIA Corp.                | $875.00     |
+| NFLX   | Netflix Inc.                | $625.00     |
+| AMD    | Advanced Micro Devices      | $165.00     |
+| INTC   | Intel Corp.                 | $35.00      |
 
