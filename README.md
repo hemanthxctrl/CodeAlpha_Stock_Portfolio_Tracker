@@ -112,4 +112,21 @@ total += value
 with open("portfolio_result.txt", "w") as f:
     f.write(...)  # writes output to file
 
-    
+#  Features ✅
+
+- 📊 Hardcoded stock price dictionary (10 real stocks)
+
+- ⌨️ Interactive user input with validation
+
+- 🔁 Duplicate stock handling (quantities are added)
+
+- 📈 Portfolio sorted by value (highest first)
+
+- 📉 Percentage allocation per stock
+
+- 💾 Save results to .txt file
+
+- 📁 Save results to .csv file
+
+- ❌ Clean error messages for invalid input
+
