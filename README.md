@@ -130,6 +130,8 @@ with open("portfolio_result.txt", "w") as f:
 
 - ❌ Clean error messages for invalid input
 
+# Author
 
+Hemanth Sreenivas
 
--- Built as part of Python Basics Project Series — Task 2
+Built as part of Python Basics Project Series — Task 2
