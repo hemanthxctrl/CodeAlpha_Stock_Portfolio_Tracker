@@ -6,14 +6,14 @@ A beginner-friendly Python project that lets users build a stock portfolio, calc
 
 # File Tree: CodeAlpha_Stock_Portfolio_Tracker
 
-
+```
 🗂️ Stock_Portfolio_Tracker
 |
 ├── 🐍 stock_tracker.py          # Main program
 ├── 📄 portfolio_result.csv      # (generated on save)
 ├── 📄 portfolio_result.txt      # (generated on save)
 └── 📝 README.md
-
+```
 
 
 ##  Concepts Used 📊
