@@ -76,8 +76,8 @@ bashpython stock_tracker.py
     > NVDA 2
     ✅  Added NVDA × 2
     > done
-
-
+```
+## 💼 Portfolio Summary
 
 | 📊 Stock | 💲 Price | 📦 Qty | 💰 Value     | 📈 Allocation |
 |----------|---------|--------|--------------|--------------|
