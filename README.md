@@ -86,3 +86,19 @@ bashpython stock_tracker.py
 | AAPL     | $180.00 | 10     | $1,800.00    | 🔵 37.1%     |
 |----------|---------|--------|--------------|--------------|
 | **TOTAL**|         |        | **$4,840.00**|              |
+
+
+## 🧠 Key Concepts Explained
+
+### 📌 Dictionary Usage
+
+```python
+STOCK_PRICES = {
+    "AAPL": 180.00,
+    "TSLA": 250.00,
+    # ...
+}
+
+# Access value
+price = STOCK_PRICES["AAPL"]  # → 180.0
+
